@@ -1,0 +1,6 @@
+Nkosinathi, Sikhosana, nathi@gmail.com, ST001, 122, pending
+Koketso, Lebese, kokele@gmail.com, ST002, 0824335623, pending
+Patrick, Jali, brapatj@gmail.com, ST003, 1989, pending
+Aubrey, Ngobese, NgobeseA@gmail.com, ST004, 1999, pending
+Emily, Kekana, TshegoEmily@gmail.com, ST005, LeaMamabolo, pending
+
